@@ -1,0 +1,9 @@
+- name: D-Clique
+  image: /assets/images/d-clique.jpg
+  description: "D-Clique is a duo with a mission to create meaningful music with deep lyrics."
+  url: /artists/d-clique/
+
+- name: Taj Amir
+  image: /assets/images/taj-amir.jpg
+  description: "Taj Amir is an artist known for blending Islamic values with modern hip hop."
+  url: /artists/taj-amir/

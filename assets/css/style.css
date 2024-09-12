@@ -1,0 +1,35 @@
+body {
+  background: #808080;
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+
+table {
+  color: #999;
+  font-size: 12px;
+}
+
+a:link, a:visited, a:active {
+  color:#FFCC00;
+  font-weight:normal;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #FFF;
+  font-weight:normal;
+  text-decoration:underline;
+}
+
+#content {
+  margin: 20px;
+}
+
+.artist-detail img {
+  max-width: 300px;
+}
+
+.artist-detail {
+  margin-bottom: 20px;
+}
